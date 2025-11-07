@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌳 My Software Engineering Journey
+# My Software Engineering Journey
 
 <img src="https://img.shields.io/badge/Experience-5%20Years-brightgreen"/>
 <img src="https://img.shields.io/badge/Status-Senior%20Engineer-blue"/>
