@@ -1,14 +1,7 @@
 <div align="center">
 
-<<<<<<< HEAD
-<!-- Header and animated hero SVG -->
-<h1 style="margin-bottom:6px;">🌳 My Software Engineering Journey</h1>
-<p style="color:#cbd5e1; margin-top:0;">A visual, animated timeline of growth — achievements orbit as the tree grows.</p>
-=======
-# My Software Engineering Journey
->>>>>>> 9c899d2aa1fb4c35ab3a33bd674e0472be379067
 
-<p>
+<h1 style="margin-bottom:6px;"> My Software Engineering Journey</h1>
 <img src="./assets/animated-tree.svg" alt="Animated tree timeline" style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 10px 30px rgba(2,6,23,0.6); background:linear-gradient(180deg,#071331 0%,#06102b 100%);" />
 </p>
 
@@ -16,7 +9,7 @@
 
 <div style="display:flex; gap:12px; align-items:flex-start;">
 	<div style="flex:1; background:linear-gradient(180deg,#0b1220, #071331); padding:18px; border-radius:10px; box-shadow:0 8px 18px rgba(2,6,23,0.6);">
-		<h2 style="color:#fff; margin-top:0;">🏆 Achievements</h2>
+		<h2 style="color:#fff; margin-top:0;">🏆Achievements</h2>
 		<ul style="color:#cbd5e1; line-height:1.6;">
 			<li><strong>Architected</strong> scalable microservices for production.</li>
 			<li><strong>Mentored</strong> junior engineers and led code reviews.</li>
