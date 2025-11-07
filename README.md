@@ -1,40 +1,83 @@
-<div align="center">
+# Senior Software Engineer
 
+[![Years of Experience](https://img.shields.io/badge/Experience-5%20Years-brightgreen)](https://github.com/Tcodess1)
+[![Role](https://img.shields.io/badge/Role-Senior%20Engineer-blue)](https://github.com/Tcodess1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-orange)](https://github.com/Tcodess1)
 
-<h1 style="margin-bottom:6px;"> My Software Engineering Journey</h1>
-<img src="./assets/animated-tree.svg" alt="Animated tree timeline" style="max-width:100%; height:auto; border-radius:12px; box-shadow:0 10px 30px rgba(2,6,23,0.6); background:linear-gradient(180deg,#071331 0%,#06102b 100%);" />
-</p>
+## 🎯 Professional Summary
 
-<div style="max-width:960px; text-align:left; margin:18px auto;">
+> Experienced Software Engineer with a proven track record in full-stack development, system architecture, and team leadership. Passionate about clean code, scalable solutions, and mentoring the next generation of developers.
 
-<div style="display:flex; gap:12px; align-items:flex-start;">
-	<div style="flex:1; background:linear-gradient(180deg,#0b1220, #071331); padding:18px; border-radius:10px; box-shadow:0 8px 18px rgba(2,6,23,0.6);">
-		<h2 style="color:#fff; margin-top:0;">🏆Achievements</h2>
-		<ul style="color:#cbd5e1; line-height:1.6;">
-			<li><strong>Architected</strong> scalable microservices for production.</li>
-			<li><strong>Mentored</strong> junior engineers and led code reviews.</li>
-			<li><strong>Published</strong> open-source libraries and technical articles.</li>
-		</ul>
-	</div>
+## 💼 Core Competencies
 
-	<div style="width:320px; background:linear-gradient(180deg,#071a2a,#06202f); padding:18px; border-radius:10px; box-shadow:0 8px 18px rgba(2,6,23,0.6);">
-		<h3 style="color:#fff; margin-top:0;">✨ Spotlight</h3>
-		<p style="color:#cbd5e1; margin:6px 0 12px 0;">Achievements above animate in the hero SVG. Each badge represents a milestone — hover them on GitHub to preview details (SVG animations are supported in repo view).</p>
-		<p style="margin:0; display:flex; gap:8px;">
-			<img src="https://img.shields.io/badge/Experience-5%20Years-brightgreen" alt="experience" />
-			<img src="https://img.shields.io/badge/Status-Senior%20Engineer-blue" alt="status" />
-		</p>
-	</div>
-</div>
+| Area | Skills |
+|------|---------|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
 
-<<<<<<< HEAD
-<!-- Skills & timeline summary -->
-<div style="display:flex; gap:12px; margin-top:14px;">
-	<div style="flex:1; background:linear-gradient(180deg,#071831,#04202b); padding:16px; border-radius:10px; color:#cbd5e1;">
-		<h3 style="color:#fff; margin-top:0;">📚 Skills</h3>
-		<p style="margin:6px 0;">React · Vue · Node.js · Python · PostgreSQL · Docker · Git · TDD · CI/CD</p>
-	</div>
-=======
+## 📈 Career Highlights
+
+### Senior Software Engineer (2025 - Present)
+- 🏗️ Architected and implemented scalable microservices architecture
+- 👥 Led and mentored a team of 5 developers
+- 🚀 Reduced system latency by 40% through optimization
+- 📊 Implemented CI/CD pipelines reducing deployment time by 60%
+
+### Mid-Level Developer (2023 - 2025)
+- 💻 Developed full-stack applications using React and Node.js
+- 🔄 Led migration from monolith to microservices architecture
+- 🤝 Contributed to open-source projects with 1000+ stars
+- 📱 Created mobile-first responsive web applications
+
+### Junior Developer (2021 - 2023)
+- 🌐 Built and maintained web applications using JavaScript
+- 📊 Worked with REST APIs and database management
+- 🔍 Implemented automated testing strategies
+- 🛠️ Developed reusable component libraries
+
+## 🎓 Education & Certifications
+
+- **Bachelor of Science in Computer Science**
+- AWS Certified Solutions Architect
+- Certified Scrum Master
+- Full Stack Development Certification
+
+## 🛠️ Technical Expertise
+
+```python
+skills = {
+    'Frontend': ['React', 'Vue.js', 'TypeScript', 'HTML5/CSS3'],
+    'Backend': ['Node.js', 'Express', 'Python', 'Java'],
+    'Database': ['PostgreSQL', 'MongoDB', 'Redis'],
+    'DevOps': ['Docker', 'Kubernetes', 'AWS', 'CI/CD'],
+    'Practices': ['TDD', 'Agile', 'Microservices', 'Clean Code']
+}
+```
+
+## 📚 Current Learning Focus
+
+- 🤖 Advanced Machine Learning Applications
+- ⚡ High-Performance Computing
+- 🏗️ System Design Patterns
+- 🔐 Advanced Security Practices
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tochukwu-onah-9416b9364)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcodess1)
+
+---
+
+<details>
+<summary>📊 GitHub Statistics</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tcodess1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcodess1&layout=compact&theme=radical)
+
+</details>
+
 <details open>
 <summary><h2>🎯 Career Timeline</h2></summary>
 
@@ -190,14 +233,4 @@
 ### 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tochukwu-onah-9416b9364)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tcodess1)
->>>>>>> 9c899d2aa1fb4c35ab3a33bd674e0472be379067
 
-	<div style="width:320px; background:linear-gradient(180deg,#071831,#04202b); padding:16px; border-radius:10px; color:#cbd5e1;">
-		<h3 style="color:#fff; margin-top:0;">� Timeline</h3>
-		<p style="margin:6px 0;">2020: Began · 2021: Junior · 2023: Mid-level · 2025: Senior</p>
-	</div>
-</div>
-
-<div style="margin-top:18px; text-align:center; color:#9fb0c9; font-size:13px;">Want this as a personal site instead? I can export this to a static HTML + CSS page that uses the same SVG and animations.</div>
-
-</div>
